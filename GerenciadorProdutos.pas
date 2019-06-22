@@ -12,7 +12,6 @@ End;
 Var
 quantidade: integer;
 produtos: array[1..100] of registro;
-auxProdutos: array[1..100] of registro;
 contador: integer;
 opcao: integer;
 indexAtual: integer;
